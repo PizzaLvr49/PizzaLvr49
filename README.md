@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PizzaLvr49
 - 👀 I’m interested in Unity and C# development
-- 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on C# and Unity
+- 🌱 I’m currently learning C# and .NET
+- 💞️ I’m looking to collaborate on C#
 - 📫 How to reach me Discord DM me at: [pizzalvr49](https://discordapp.com/users/1188968032169627710)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: im 11
