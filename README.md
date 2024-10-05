@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on C#
 - 📫 How to reach me Discord DM me at: [pizzalvr49](https://discordapp.com/users/1188968032169627710)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: im 13
+- ⚡ Fun fact: im 14
 
 <!---
 PizzaLvr49/PizzaLvr49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
